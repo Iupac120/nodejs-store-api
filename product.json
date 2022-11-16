@@ -1,0 +1,107 @@
+[
+    {
+        "name":"hoffa",
+        "price":25,
+        "rating":4,
+        "company":"marcos"
+    },
+    {
+        "name":"albay",
+        "price":100,
+        "rating":4.6,
+        "company":"liddy"
+    },    {
+        "name":"arm chair",
+        "price":150,
+        "rating":4.8,
+        "company":"marcos"
+    },    {
+        "name":"dining table",
+        "price":200,
+        "rating":4.5,
+        "company":"ikea"
+    },    {
+        "name":"bath tub",
+        "price":40,
+        "rating":4.6,
+        "company":"liddy"
+    },
+    {
+        "name":"toyota corolla",
+        "price":23,
+        "rating":4,
+        "company":"caressa",
+        "feature":true
+    },
+    {
+        "name":"bets friend",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },
+    {
+        "name":"cros tour",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },
+    {
+        "name":"orita 0bele",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },
+    {
+        "name":"Amg Benz",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },
+    {
+        "name":"texlla jeep",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },
+    {
+        "name":"chrysller",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },
+    {
+        "name":"v boot benz",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },
+    {
+        "name":"mazda car",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },
+    {
+        "name":"lexus 350",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },
+    {
+        "name":"v0vvo ",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },    {
+        "name":"buggatti",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    },
+    {
+        "name":"wooden",
+        "price":25,
+        "rating":4,
+        "company":"caressa"
+    }
+]
